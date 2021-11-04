@@ -215,7 +215,6 @@ section .title::after {
     height: 100vh;
     color: #ffffff;
     min-height: 500px;
-    background-size: cover;
     background-attachment: fixed;
     font-family: 'Poppins', sans-serif;
 
