@@ -28,7 +28,6 @@ window.addEventListener('DOMContentLoaded',()=>{
 
     })
 })
-$.backstretch("images/arjunkecil1.jpg");
 $(document).ready(function(){
     $(window).scroll(function(){
         // sticky navbar on scroll script
