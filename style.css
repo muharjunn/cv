@@ -211,12 +211,15 @@ section .title::after {
 
 .home {
     display: flex;
-    background: url("images/arjunkecil1.jpg")no-repeat center;
+    background: url("images/test17.jpg")no-repeat center;
     height: 100vh;
     color: #ffffff;
     min-height: 500px;
+    background-size: cover;
     background-attachment: fixed;
     font-family: 'Poppins', sans-serif;
+    transform: translatez(0);
+    -webkit-transform: translatez(0);
 
 }
 
